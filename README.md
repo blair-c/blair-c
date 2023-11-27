@@ -4,7 +4,7 @@
 - Some technologies I've been enjoying recently are Python, Go, TypeScript + React, TailwindCSS, and Redis.
 - Aspects of development I find particularly interesting include rendering strategies, UX, and accessibility.
 
-You can find my full project portfolio, resume, and contact info here: https://blair-c.github.io
+I am currently seeking work! You can find my full project portfolio, resume, and contact info here: https://blair-c.github.io
 
 <!--
 **blair-c/blair-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
